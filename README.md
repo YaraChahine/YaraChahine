@@ -6,9 +6,10 @@
 
 
 
-- 🌱 I am currently pursuing my bachelor's degree in computer science at the Lebanese American University
+- 🌱 I am currently pursuing my bachelor's degree in computer science at the Lebanese American University.
 - 👀 I am mostly interested in Android mobile development.
-- 📫 You can reach me at yarachahine88@hotmail.com
+- 🥅 2022 Goals: Get more acquainted to working professionally and work on more projects.
+
 <br>
 
 ### Languages and Tools:
