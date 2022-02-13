@@ -10,10 +10,6 @@
 - 👀 I am mostly interested in Android mobile development.
 - 📫 You can reach me at yarachahine88@hotmail.com
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yara-chahine-8432a81a7/)
 
 ### Languages and Tools:
 
@@ -25,7 +21,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 
-# ***Contact:***
+### Contact me:
 
 <img align="left" alt="Visual Studio Code" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="vertical-align:middle;padding-right: 10px;" />
 
