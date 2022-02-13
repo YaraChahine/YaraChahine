@@ -9,7 +9,7 @@
 - 🌱 I am currently pursuing my bachelor's degree in computer science at the Lebanese American University
 - 👀 I am mostly interested in Android mobile development.
 - 📫 You can reach me at yarachahine88@hotmail.com
-
+<br>
 
 ### Languages and Tools:
 
@@ -20,6 +20,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
+
+<br>
 
 ### Contact me:
 
