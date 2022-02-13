@@ -4,7 +4,7 @@
 -->
 # Hi there, I'm Yara Chahine 👋 
 
-<br><br>
+<br>
 
 - 🌱 I am currently pursuing my bachelor's degree in computer science at the Lebanese American University.
 - 👀 I am mostly interested in Android mobile development.
