@@ -13,7 +13,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-https://www.linkedin.com/in/yara-chahine-8432a81a7/
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yara-chahine-8432a81a7/)
 
 ### Languages and Tools:
 
