@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I am currently pursuing my bachelor's degree in computer science at the Lebanese American University.
+- 🌱 Finished my Bachelor's degree in Computer Science with a minor in Mathematics at the Lebanese American University.
 - 👀 I am mostly interested in Android mobile development.
 - 🥅 2022 Goals: Get more acquainted to working professionally and work on more projects.
 
@@ -20,7 +20,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
